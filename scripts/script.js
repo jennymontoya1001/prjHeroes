@@ -4,10 +4,7 @@ const templateCard = document.getElementById('template-card').content;
 const fragment = document.createDocumentFragment();
 let like = { }; // objeto vacío
 
-/*https://getbootstrap.com/docs/5.0/getting-started/introduction/
-https://jsonplaceholder.typicode.com/
-https://bluuweb.github.io/javascript/02-dom/#practica-template
- */
+
 
 
 document.addEventListener('DOMContentLoaded', () => {
